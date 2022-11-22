@@ -1,9 +1,14 @@
 h1 {
- color: blue;
+ color: lightblue;
 font-size: 50pt;
 }
 
 li {
  color: pink;
  font-size: 20pt;
+}
+
+p {
+ color: pink;
+ font-size: 10pt;
 }
