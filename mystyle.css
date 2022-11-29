@@ -10,24 +10,24 @@ font-size: 50pt;
 
 li {
  font-family: "Georgia";
- color: blue;
+ color: lightblue;
  font-size: 20pt;
 }
 
 p1 {
  font-family: "Times New Roman", sans-serif;
- color: pink;
+ color: lightred;
  font-size: 20pt;
 }
 
 p2 {
   font-family: "Arial, Helvetica", sans-serif;
- color: pink;
+ color: lightred;
  font-size: 20pt;
 }
 
 p3 {
   font-family: "Georiga", sans-serif;
- color: pink;
+ color: lightred;
  font-size: 20pt;
 }
