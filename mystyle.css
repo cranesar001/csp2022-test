@@ -6,12 +6,12 @@ font-size: 50pt;
 
 li {
  font-family: "Georgia";
- color: lightgreen;
+ color: blue;
  font-size: 20pt;
 }
 
 p1 {
- font-family: "Times New Roman", Times, serif;
+ font-family: "Times New Roman", sans-serif;
  color: pink;
  font-size: 20pt;
 }
@@ -22,3 +22,8 @@ p2 {
  font-size: 20pt;
 }
 
+p3 {
+  font-family: "Georiga", sans-serif;
+ color: pink;
+ font-size: 20pt;
+}
