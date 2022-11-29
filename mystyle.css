@@ -1,16 +1,24 @@
 h1 {
- style="font-family:'Courier New'"
+ font-family: "Courier New";
  color: lightblue;
 font-size: 50pt;
 }
 
 li {
- style="font-family: 'Georgia'"
+ font-family: "Georgia";
  color: pink;
  font-size: 20pt;
 }
 
-p {
+p1 {
+ font-family: "Times New Roman", Times, serif;
  color: pink;
  font-size: 20pt;
 }
+
+p2 {
+  font-family: Arial, Helvetica, sans-serif;
+ color: lightpink;
+ font-size: 20pt;
+}
+
