@@ -6,7 +6,7 @@ font-size: 50pt;
 
 li {
  font-family: "Georgia";
- color: pink;
+ color: lightgreen;
  font-size: 20pt;
 }
 
@@ -17,8 +17,8 @@ p1 {
 }
 
 p2 {
-  font-family: Arial, Helvetica, sans-serif;
- color: lightpink;
+  font-family: "Arial, Helvetica", sans-serif;
+ color: pink;
  font-size: 20pt;
 }
 
