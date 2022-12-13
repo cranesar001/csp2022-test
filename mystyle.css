@@ -31,3 +31,13 @@ p3 {
  color: red;
  font-size: 20pt;
 }
+
+p1 {
+  width: 250px;
+  background-color: green;
+  padding: 25px;
+  border: 10px solid blue;
+  margin: 25px;
+  height: 100px;
+  overflow: auto
+           }
