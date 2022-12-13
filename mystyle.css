@@ -34,9 +34,9 @@ p3 {
 
 p1 {
   width: 250px;
-  background-color: green;
+  background-color: solid lightblue;
   padding: 25px;
-  border: 10px solid blue;
+  border: 10px dashed pink;
   margin: 25px;
   height: 100px;
   overflow: auto
