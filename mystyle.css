@@ -14,13 +14,13 @@ li {
  font-size: 20pt;
 }
 
-div.static{
+div.static {
  font-family: "Times New Roman", sans-serif;
  color: red;
  font-size: 20pt;
 }
 
-div1.static{
+div1.static {
   position: static;
   border: 10px solid white;
   padding: 10px;
