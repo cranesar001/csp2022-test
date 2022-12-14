@@ -30,8 +30,7 @@ div. static {
   position: static;
   border: 15px solid gray;
   padding: 10px;
-  margin: 0px;
-  overflow: auto
+  margin: 10px;
            }
 
 p2 {
