@@ -28,16 +28,18 @@ p2 {
 
 p1 {
   width: 300px;
+  height: 50;
   border: 15px solid pink;
-  padding: 50px;
-  margin: 20px;
+  padding: 30px;
+  margin: 100px;
   overflow: auto
            }
 
 p2 {
   width: 300px;
+  height: 50;
   border: 15px dotted blue;
-  padding: 50px;
-  margin: 20px;
+  padding: 30px;
+  margin: 100px;
   overflow: auto
            }
