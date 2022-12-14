@@ -20,7 +20,7 @@ div.static {
  font-size: 20pt;
 }
 
-div1.static {
+div.static{
   position: static;
   border: 10px solid white;
   padding: 10px;
