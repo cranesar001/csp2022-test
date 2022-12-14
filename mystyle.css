@@ -27,19 +27,17 @@ p2 {
 }
 
 p1 {
-  width: 175px;
-  height: 100px;
+  width: 300px;
+  border: 15px solid pink;
   padding: 50px;
-  border: 5px dashed pink;
-  margin: 100px;
-  overflow: scroll
+  margin: 20px;
+  overflow: auto
            }
 
 p2 {
-  width: 100px;
-  height: 100px;
+  width: 300px;
+  border: 15px dotted blue;
   padding: 50px;
-  border: 5px dotted blue;
-  margin: 100px;
-  overflow: scroll
+  margin: 20px;
+  overflow: auto
            }
