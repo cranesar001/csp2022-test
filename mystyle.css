@@ -29,7 +29,7 @@ p2 {
 p1 {
   width: 300px;
   height: 50;
-  border: 15px solid pink;
+  border: 15px solid red;
   padding: 30px;
   margin: 100px;
   overflow: auto
