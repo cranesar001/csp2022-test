@@ -28,15 +28,14 @@ p2 {
 
 div.static{
   position: static;
-  border: 10px solid gray;
+  border: 10px solid lightgray;
   padding: 10px;
   margin: 10px;
            }
 
-p2 {
-  width: 200px;
+div.static{
+  position: static;
   border: 15px dotted blue;
   padding: 10px;
   margin: 30px;
-  overflow: visible
            }
