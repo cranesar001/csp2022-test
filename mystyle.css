@@ -26,17 +26,20 @@ p2 {
  font-size: 20pt;
 }
 
-p3 {
-  font-family: "Georiga", sans-serif;
- color: red;
- font-size: 20pt;
-}
-
 p1 {
   width: 175px;
   height: 100px;
   padding: 25px;
   border: 5px dashed pink;
+  margin: 50px;
+  overflow: scroll
+           }
+
+p2 {
+  width: 100px;
+  height: 100px;
+  padding: 25px;
+  border: 5px dotted lightblue;
   margin: 50px;
   overflow: scroll
            }
