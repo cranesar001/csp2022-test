@@ -1,3 +1,9 @@
-p {
+body {
+  background-color: cream;
+}
+
+p2 {
+  font-family: "Century Schoolbook";
   font-size: 100pt;
+  color:lightblue;
 }
