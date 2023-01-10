@@ -4,6 +4,12 @@ body {
 
 p2 {
   font-family: "Century Schoolbook";
+  font-size: 50pt;
+  color: lightblue;
+}
+
+h1 {
+  font-family: "Century Scoolbook";
   font-size: 100pt;
-  color:lightblue;
+  color: red;
 }
