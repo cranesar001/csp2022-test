@@ -4,16 +4,16 @@ body {
 
 p2 {
   font-family: "Century Schoolbook";
-  font-size: 10pt;
-  color: slate;
+  font-size: 20pt;
 }
 
 h1 {
   font-family: "Century Scoolbook";
   font-size: 40pt;
-  color: blue;
+  color: red;
 }
 
-div. w3-container {
-  color: teal;
-} 
+ul {
+  font-family: "Century Schoolbook";
+  color: darkblue;
+}
