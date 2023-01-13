@@ -4,7 +4,7 @@ body {
 
 p2 {
   font-family: "Century Schoolbook";
-  font-size: 20pt;
+  font-size: 15pt;
 }
 
 h1 {
@@ -23,6 +23,7 @@ ul {
 p3 {
   font-family: "Century Schoolbook";
     color:black;
+  font-size: 12pt;
 }
 
 img {
