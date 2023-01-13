@@ -28,6 +28,10 @@ p3 {
 
 img {
     float: left;
+    width: 300px;
+    border: 15px;
+    padding: 10px;
+    margin: 20px;
 }
 
 p4 {
